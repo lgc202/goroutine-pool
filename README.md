@@ -1,2 +1,2 @@
 # goroutine-pool
-goroutine 协程池
+最简单的goroutine协程池
